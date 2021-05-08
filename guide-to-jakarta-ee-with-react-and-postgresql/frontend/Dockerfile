@@ -1,2 +1,2 @@
-FROM nginx:1.17.4
+FROM nginx:1.19.9
 COPY build /usr/share/nginx/html
