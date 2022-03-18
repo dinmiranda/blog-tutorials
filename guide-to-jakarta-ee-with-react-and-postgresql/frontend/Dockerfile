@@ -1,2 +1,2 @@
-FROM nginx:1.17.4
+FROM nginx:stable
 COPY build /usr/share/nginx/html
